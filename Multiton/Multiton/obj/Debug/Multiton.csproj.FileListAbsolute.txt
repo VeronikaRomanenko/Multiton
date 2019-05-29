@@ -1,0 +1,7 @@
+D:\Вероника Романенко\Multiton\Multiton\bin\Debug\Multiton.exe.config
+D:\Вероника Романенко\Multiton\Multiton\bin\Debug\Multiton.exe
+D:\Вероника Романенко\Multiton\Multiton\bin\Debug\Multiton.pdb
+D:\Вероника Романенко\Multiton\Multiton\obj\Debug\Multiton.csprojAssemblyReference.cache
+D:\Вероника Романенко\Multiton\Multiton\obj\Debug\Multiton.csproj.CoreCompileInputs.cache
+D:\Вероника Романенко\Multiton\Multiton\obj\Debug\Multiton.exe
+D:\Вероника Романенко\Multiton\Multiton\obj\Debug\Multiton.pdb
